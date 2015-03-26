@@ -1,0 +1,175 @@
+\begin{thebibliography}{10}
+
+\bibitem{Abdullah2005}
+S.~Abdullah, E.K. Burke, and B.~McCollum.
+\newblock An investigation of variable neighborhood search for university
+  course timetabling.
+\newblock In {\em The 2nd Multidisciplinary International Conference on
+  Scheduling: Theory and Applications (MISTA)}, page 413–427, 2005.
+
+\bibitem{Abdullah2008}
+S.~Abdullah and H.~Turabieh.
+\newblock Generating university course timetable using genetic algorithm and
+  local search.
+\newblock In {\em Proceeding of the 3rd International Conference on Hybrid
+  Information Technology}, page 254–260, 2008.
+
+\bibitem{Atsuta2007}
+M.~Atsuta, K.~Nonobe, and T.~Ibaraki.
+\newblock Itc-2007 track2 - an approach using general csp solver, 2007.
+
+\bibitem{Bajeh2001}
+A.O. Bajeh and K.O. Abolarinwa.
+\newblock Optimization: A comparative study of genetic and tabu search
+  algorithms.
+\newblock {\em International Journal of Computer Applications}, 31(5):43--48,
+  October 2001.
+
+\bibitem{Burke2003}
+E.K. Burke, G.~Kendall, and E.~Soubeiga.
+\newblock A tabu-search hyper-heuristic for timetabling and rostering.
+\newblock {\em Journal of Heuristics}, 9(6):451--470, 2003.
+
+\bibitem{Burke2009}
+E.K. Burke, J.~Marecek, A.~Parkes, and H.~Rudová.
+\newblock Decomposition, reformulation, and diving in university course
+  timetabling.
+\newblock {\em Comput. Oper. Res}, 37(3):582–597, 2009.
+
+\bibitem{Burke2007}
+E.K. Burke, A.~Meisels, S.~Petrovic, and R.~Qu.
+\newblock A graph-based hyper-heuristic for timetabling problems.
+\newblock {\em European Journal of Operational Research}, 176(1):177–192,
+  2007.
+
+\bibitem{Burke2002}
+E.K. Burke and S.~Petrovic.
+\newblock Recent research directions in automated timetabling.
+\newblock {\em European Journal of Operational Research}, 140(2):266--280,
+  2002.
+
+\bibitem{Carter1986}
+M.W. Carter.
+\newblock A survey of practical applications of examination timetabling
+  algorithms.
+\newblock {\em Operations Research}, 34(2):193--202, 1986.
+
+\bibitem{Carter1996}
+M.W. Carter and G~Laporte.
+\newblock Recent developments in practical examination timetabling.
+\newblock {\em Selected papers from the First International Conference on
+  Practice and Theory of Automated Timetabling}, pages 3--21, 1996.
+
+\bibitem{Chiarandini2006}
+M.~Chiarandini, M.~Birattari, K.~Socha, and O.~Rossi-Doria.
+\newblock An effective hybrid algorithm for university course timetabling.
+\newblock {\em Journal of Scheduling}, 9(5):403--432, October 2006.
+
+\bibitem{Clark2008}
+M.~Clark, M.~Henz, and B.~Love.
+\newblock Quikfix. a repair-based timetable solver.
+\newblock In {\em Proceedings of the Seventh PATAT Conference}, 2008.
+
+\bibitem{Cooper1996}
+T.B. Cooper and J.H. Kingston.
+\newblock The complexity of timetable construction problems.
+\newblock {\em The Practice and Theory of Automated Timetabling: Selected
+  Papers from the First International. Lecture Notes in Computer Science,
+  Springer-Verlag Berlin,}, 1153:283--295, 1996.
+
+\bibitem{DeCesco2008}
+F.~De~Cesco, L.~Di~Gaspero, and A.~Schaerf.
+\newblock Benchmarking curriculum-based course timetabling: Formulations, data
+  formats, instances, validation, and results.
+\newblock In {\em Proceedings of the Seventh PATAT Conference}, 2008.
+
+\bibitem{Even1976}
+S.~Even, A.~Itai, and A.~Shamir.
+\newblock On the complexity of timetabling and multicommodity flow problems.
+\newblock {\em SIAM Journal of Computation}, 5(4):691--703, 1976.
+
+\bibitem{Geiger2008}
+M.J. Geiger.
+\newblock An application of the threshold accepting metaheuristic for
+  curriculum based course timetabling.
+\newblock In {\em Proceedings of the Seventh PATAT Conference}, 2008.
+
+\bibitem{Lue2010}
+Z.~Lü and J.-K. Hao.
+\newblock Adaptive tabu search for course timetabling.
+\newblock {\em European Journal of Operational Research.}, 200(1):235–244,
+  2010.
+
+\bibitem{Lach2008}
+G.~Lach and M.E. Lübbecke.
+\newblock Curriculum based course timetabling: Optimal solutions to the udine
+  benchmark instances.
+\newblock In {\em Proceedings of the Seventh PATAT Conference}, 2008.
+
+\bibitem{Landa-Silva2008}
+D.~Landa-Silva and J.H. Obit.
+\newblock Great deluge with non-linear decay rate for solving course
+  timetabling problem.
+\newblock In {\em The Fourth International IEEE Conference on Intelligent
+  Systems}, pages 11--18, 2008.
+\newblock Varna, Bulgaria.
+
+\bibitem{McCollum2007}
+B.~McCollum.
+\newblock Itc 2007 – competition rules.
+\newblock Online, 2007.
+
+\bibitem{McCollum}
+B.~McCollum.
+\newblock Itc 2007 site.
+\newblock Online, 2010.
+
+\bibitem{McCollum2010}
+B.~McCollum, A.~Schaerf, B.~Paechter, P.~McMullan, R.~Lewis, A.~Parkes,
+  L.~Di~Gaspero, R.~Qu, and E.K. Burke.
+\newblock Setting the research agenda in automated timetabling: The second
+  international timetabling competition.
+\newblock {\em INFORMS Journal of Computing}, 22(1):120--130, 2010.
+
+\bibitem{McMullan2007}
+P.~McMullan.
+\newblock An extended implementation of the great deluge algorithm for course
+  timetabling.
+\newblock {\em Computational Science—ICCS, Part I. LNCS}, 4487:538–545,
+  2007.
+\newblock Springer, Berlin.
+
+\bibitem{Mueller2007}
+T.~Müller.
+\newblock Itc2007: Solver description.
+\newblock In {\em Proceedings of the 7th International Conference on the
+  Practice and Theory of Automated Timetabling}, 2007.
+
+\bibitem{Petrovic2004}
+S.~Petrovic and E.K. Burke.
+\newblock University timetabling.
+\newblock {\em Handbook of Scheduling: Algorithms, Models, and Performance
+  Analysis, CRC Press, Boca Raton, Chap. 45}, 2004.
+
+\bibitem{Rossi-Doria2003}
+O.~Rossi-Doria, M.~Sampels, M.~Birattari, M.~Chiarandini, M.~Dorigo, L.M.
+  Gambardella, J.~Knowles, M.~Manfrin, M.~Mastrolilli, B.~Paechter, L.~Paquete,
+  and T.~Stützle.
+\newblock A comparison of the performance of different meta-heuristics on the
+  timetabling problem.
+\newblock {\em Practice and Theory of Automated Timetabling IV, Lecture Notes
+  in Computer Science}, 2740:329--351, 2003.
+
+\bibitem{Schaerf1999}
+A.~Schaerf.
+\newblock A survey of automated timetabling.
+\newblock {\em Artificial Intelligence Review}, 13(2):87--127, 1999.
+
+\bibitem{Socha2002}
+K.~Socha, J.~Knowles, and M.~Sampels.
+\newblock A max-min ant system for the university course timetabling problem.
+\newblock {\em The Proceedings of the 3rd International Workshop on Ant
+  Algorithms (ANTS 2002). LNCS}, 2463:1--13, 2002.
+\newblock Springer, Berlin.
+
+\end{thebibliography}

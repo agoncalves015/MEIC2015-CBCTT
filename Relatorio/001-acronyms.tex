@@ -1,0 +1,26 @@
+\newlength{\acronymlabelwidth}
+\setlength{\acronymlabelwidth}{0.25\textwidth}
+\newglossarystyle{listwithwidth}{%
+  \renewenvironment{theglossary}%
+    {\begin{description}}{\end{description}}%
+  \renewcommand*{\glossaryheader}{}%
+  \renewcommand*{\glsgroupheading}[1]{}%
+  \renewcommand*{\glossaryentryfield}[5]{%
+    \item[\parbox{\acronymlabelwidth}{\glsentryitem{##1}\glstarget{##1}{##2}}]
+       ##3\glspostdescription\space ##5}%
+  \renewcommand*{\glossarysubentryfield}[6]{%
+    \glssubentryitem{##2}%
+    \glstarget{##2}{\strut}##4\glspostdescription\space ##6.}%
+  \renewcommand*{\glsgroupskip}{\indexspace}%
+}
+
+\begin{titlepage}
+\thispagestyle{empty}
+	\newacronym{aco}{ACO}{Ant Colony Optimization}
+	\newacronym{ats}{ATS}{Adaptive Tabu Search}
+	\newacronym{cb-ctt}{CB-CTT}{Curriculum Based Course Timetabling}
+	\newacronym{csp}{CSP}{Constraint Satisfaction Problem}
+	\newacronym{ga}{GA}{Genetic Algorithm}
+	\newacronym{itc}{ITC}{International Timetabling Competition}
+	\newacronym{sa}{SA}{Simulated Annealing}
+\end{titlepage}

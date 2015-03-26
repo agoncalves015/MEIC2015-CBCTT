@@ -1,0 +1,22 @@
+\contentsline {chapter}{Acknowledgments}{v}
+\contentsline {chapter}{Abstract}{vii}
+\contentsline {chapter}{List of Figures}{xi}
+\contentsline {chapter}{List of Acronyms}{xi}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Curriculum-Based Course Timetabling problem}{3}
+\contentsline {chapter}{\numberline {3}State of the Art}{5}
+\contentsline {chapter}{\numberline {4}Proposed Solution}{7}
+\contentsline {section}{\numberline {4.1}Overview}{7}
+\contentsline {section}{\numberline {4.2}First Phase - Genetic (Evolutionary) Algorithm}{8}
+\contentsline {subsection}{\numberline {4.2.1}Initialization}{8}
+\contentsline {subsection}{\numberline {4.2.2}Encoding}{9}
+\contentsline {subsection}{\numberline {4.2.3}Evaluation}{9}
+\contentsline {subsection}{\numberline {4.2.4}Selection}{9}
+\contentsline {subsection}{\numberline {4.2.5}Crossover}{10}
+\contentsline {subsection}{\numberline {4.2.6}Mutation}{10}
+\contentsline {subsection}{\numberline {4.2.7}Repair Function}{10}
+\contentsline {section}{\numberline {4.3}Second Phase - Simulated Annealing Algorithm}{10}
+\contentsline {section}{\numberline {4.4}General System Architecture Overview}{11}
+\contentsline {chapter}{\numberline {5}Project Planning}{12}
+\contentsline {chapter}{\numberline {6}Future Work}{14}
+\contentsline {chapter}{References}{15}

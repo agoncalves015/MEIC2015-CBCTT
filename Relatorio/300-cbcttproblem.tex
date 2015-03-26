@@ -1,0 +1,32 @@
+\chapter{Curriculum-Based Course Timetabling problem}
+\label{cbcttproblem}
+\thispagestyle{plain}
+
+In this section we present the formulation of the CB-CTT problem.
+The specific problem of Curriculum-Based Course Timetabling, as proposed by Di Gaspero et al. ~\cite{DiGasperoL.2007}, is an optimization problem, which consists of the weekly scheduling of the lectures for several university courses within a given number of rooms and time periods, where conflicts between courses are set according to the curricula published by the University and not on the basis of enrolment data.\\
+\\
+The problem consists of the following entities:\\
+\\
+\begin{itemize}
+\item Days, Timeslots, and Periods: Given a number of teaching days in the week (typically 5 or 6) and considering that each day is split in a fixed number of timeslots, which are equal for all days. A period is considered to be a pair composed by a day and a timeslot. The total number of scheduling periods is the product of the days times the day timeslots. 
+\item Courses and Teachers: Each course consists of a fixed number of lectures to be scheduled in distinct periods, is attended by given number of students, and is taught by a teacher. For each course there is a minimum number of days that the lectures of the course should be spread in, moreover there are some periods in which the course cannot be scheduled.
+\item Rooms: Each room has a capacity, which corresponds to the number of available seats. All rooms are equally suitable for all courses.
+\item Curricula: A curriculum is a group of courses such that any pair of courses in the group has students in common. Based on curricula, we have the conflicts between courses and other soft constraints. 
+\end{itemize}
+A feasible solution of the problem will correspond to an assignment of a period (day and timeslot) and a room to all lectures of each course and must conform to the following Hard constraints:\\
+\\
+\begin{itemize}
+\item Lectures: All lectures of a course must be scheduled and they must be assigned to distinct periods. 
+\item Room Occupancy: Two lectures cannot take place in the same room and in the same period. 
+\item Conflicts: Lectures of courses in the same curriculum or taught by the same teacher must be all scheduled in different periods.
+\item Availabilities: If the teacher of the course is not available to teach that course at a given period, then no lectures of the course can be scheduled at that period.
+\end{itemize}
+Additionally, the following Soft constraints should be met as well as possible:\\
+\\
+\begin{itemize}
+\item Room Capacity: For each lecture, the number of students that attend the course must be less or equal than the number of seats of all the rooms that host its lectures. 
+\item Minimum Working Days: The lectures of each course must be spread into a minimum number of days. 
+\item Curriculum Compactness: Lectures belonging to a curriculum should be adjacent to each other (i.e., in consecutive periods). For a given curriculum we account for a violation every time there is one lecture not adjacent to any other lecture within the same day. 
+\item Room Stability: All lectures of a course should be given in the same room. 
+\end{itemize}
+A solution that conforms to these Soft Constraints is one that exhibits desired structural properties like coherent daily time slots for lectures of the same curriculum, etc.
