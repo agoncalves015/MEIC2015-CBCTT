@@ -1,12 +1,7 @@
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Overview of the proposed approach.\relax }}{7}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Overview of the steps of the proposed genetic algorithm.\relax }}{8}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Chromosome representation.\relax }}{9}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces General System Architecture.\relax }}{11}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Allocation of time to the tasks executed in the first phase.\relax }}{12}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces GANTT diagram detailing the project plan.\relax }}{13}
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Overview of the proposed approach.\relax }}{5}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Overview of the steps of the proposed genetic algorithm.\relax }}{5}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Chromosome representation.\relax }}{6}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces General System Architecture.\relax }}{8}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Allocation of time to the tasks executed in the first phase.\relax }}{8}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces GANTT diagram detailing the project plan.\relax }}{9}

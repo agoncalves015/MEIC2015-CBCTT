@@ -1,0 +1,240 @@
+\ifglsentryexists{aco}{}%
+{%
+\gls@defglossaryentry{aco}%
+{%
+name={ACO},%
+sort={ACO},%
+type={acronym},%
+first={Ant Colony Optimization (ACO)},%
+firstplural={Ant Colony Optimization\acrpluralsuffix  (ACO\acrpluralsuffix )},%
+text={ACO},%
+plural={ACO\acrpluralsuffix },%
+description={Ant Colony Optimization},%
+descriptionplural={Ant Colony Optimization\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ant Colony Optimization},%
+longplural={Ant Colony Optimizations},%
+short={ACO},%
+shortplural={ACOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ats}{}%
+{%
+\gls@defglossaryentry{ats}%
+{%
+name={ATS},%
+sort={ATS},%
+type={acronym},%
+first={Adaptive Tabu Search (ATS)},%
+firstplural={Adaptive Tabu Search\acrpluralsuffix  (ATS\acrpluralsuffix )},%
+text={ATS},%
+plural={ATS\acrpluralsuffix },%
+description={Adaptive Tabu Search},%
+descriptionplural={Adaptive Tabu Search\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Adaptive Tabu Search},%
+longplural={Adaptive Tabu Searchs},%
+short={ATS},%
+shortplural={ATSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cb-ctt}{}%
+{%
+\gls@defglossaryentry{cb-ctt}%
+{%
+name={CB-CTT},%
+sort={CB-CTT},%
+type={acronym},%
+first={Curriculum Based Course Timetabling (CB-CTT)},%
+firstplural={Curriculum Based Course Timetabling\acrpluralsuffix  (CB-CTT\acrpluralsuffix )},%
+text={CB-CTT},%
+plural={CB-CTT\acrpluralsuffix },%
+description={Curriculum Based Course Timetabling},%
+descriptionplural={Curriculum Based Course Timetabling\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Curriculum Based Course Timetabling},%
+longplural={Curriculum Based Course Timetablings},%
+short={CB-CTT},%
+shortplural={CB-CTTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{csp}{}%
+{%
+\gls@defglossaryentry{csp}%
+{%
+name={CSP},%
+sort={CSP},%
+type={acronym},%
+first={Constraint Satisfaction Problem (CSP)},%
+firstplural={Constraint Satisfaction Problem\acrpluralsuffix  (CSP\acrpluralsuffix )},%
+text={CSP},%
+plural={CSP\acrpluralsuffix },%
+description={Constraint Satisfaction Problem},%
+descriptionplural={Constraint Satisfaction Problem\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Constraint Satisfaction Problem},%
+longplural={Constraint Satisfaction Problems},%
+short={CSP},%
+shortplural={CSPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ga}{}%
+{%
+\gls@defglossaryentry{ga}%
+{%
+name={GA},%
+sort={GA},%
+type={acronym},%
+first={Genetic Algorithm (GA)},%
+firstplural={Genetic Algorithm\acrpluralsuffix  (GA\acrpluralsuffix )},%
+text={GA},%
+plural={GA\acrpluralsuffix },%
+description={Genetic Algorithm},%
+descriptionplural={Genetic Algorithm\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Genetic Algorithm},%
+longplural={Genetic Algorithms},%
+short={GA},%
+shortplural={GAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{itc}{}%
+{%
+\gls@defglossaryentry{itc}%
+{%
+name={ITC},%
+sort={ITC},%
+type={acronym},%
+first={International Timetabling Competition (ITC)},%
+firstplural={International Timetabling Competition\acrpluralsuffix  (ITC\acrpluralsuffix )},%
+text={ITC},%
+plural={ITC\acrpluralsuffix },%
+description={International Timetabling Competition},%
+descriptionplural={International Timetabling Competition\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={International Timetabling Competition},%
+longplural={International Timetabling Competitions},%
+short={ITC},%
+shortplural={ITCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pe-ctt}{}%
+{%
+\gls@defglossaryentry{pe-ctt}%
+{%
+name={PE-CTT},%
+sort={PE-CTT},%
+type={acronym},%
+first={Post Enrolment Course Timetabling (PE-CTT)},%
+firstplural={Post Enrolment Course Timetabling\acrpluralsuffix  (PE-CTT\acrpluralsuffix )},%
+text={PE-CTT},%
+plural={PE-CTT\acrpluralsuffix },%
+description={Post Enrolment Course Timetabling},%
+descriptionplural={Post Enrolment Course Timetabling\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Post Enrolment Course Timetabling},%
+longplural={Post Enrolment Course Timetablings},%
+short={PE-CTT},%
+shortplural={PE-CTTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sa}{}%
+{%
+\gls@defglossaryentry{sa}%
+{%
+name={SA},%
+sort={SA},%
+type={acronym},%
+first={Simulated Annealing (SA)},%
+firstplural={Simulated Annealing\acrpluralsuffix  (SA\acrpluralsuffix )},%
+text={SA},%
+plural={SA\acrpluralsuffix },%
+description={Simulated Annealing},%
+descriptionplural={Simulated Annealing\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Simulated Annealing},%
+longplural={Simulated Annealings},%
+short={SA},%
+shortplural={SAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

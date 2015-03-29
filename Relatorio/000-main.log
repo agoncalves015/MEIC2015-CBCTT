@@ -1,8 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.26)  26 MAR 2015 17:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.26)  29 MAR 2015 15:43
 entering extended mode
 **000-main.tex
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\000-main.tex
-"
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -14,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\svmono.cls"
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\svmono.cls
 Document Class: svmono 2006/10/31 v4.17 
 Springer Verlag global LaTeX document class for monographs
 Class Springer-SVMono Info: extra/valid Springer sub-package 
@@ -904,8 +903,7 @@ LaTeX Font Info:    Try loading font information for T1+ptm on input line 43.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\001-acronyms
-.tex"
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\001-acronyms.tex
 \acronymlabelwidth=\skip67
 )
 \glo@main@file=\write4
@@ -915,12 +913,12 @@ Package glossaries Info: Writing glossary file 000-main.acn on input line 47.
 
 \@input{000-latex-config.aux}
 
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\000-latex-co
-nfig.tex")
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-latex-config.te
+x)
 \@input{000-format-json.aux}
 
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\000-format-j
-son.tex" ("C:\Program Files\MiKTeX 2.9\tex\latex\bera\bera.sty"
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-format-json.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\bera\bera.sty"
 Package: bera 2004/01/31 (WaS)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
@@ -1032,20 +1030,10 @@ Package: berasans 2004/01/30 (WaS)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\bera\beramono.sty"
 Package: beramono 2004/01/31 (WaS)
 )))
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\000-main.aux
-"
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\100-cover.au
-x")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\002-abstract
-.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\200-introduc
-tion.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\300-cbcttpro
-blem.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\400-stateoft
-heart.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\500-proposed
--solution.aux"
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.aux
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\100-cover.aux)
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\002-abstract.aux)
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\201-content.aux
 
 LaTeX Warning: Label `subsubsubsec:ga-selection' multiply defined.
 
@@ -1053,16 +1041,8 @@ LaTeX Warning: Label `subsubsubsec:ga-selection' multiply defined.
 LaTeX Warning: Label `subsubsec:genetic-algorithm' multiply defined.
 
 )
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\601-project-
-planning.aux"
-
-LaTeX Warning: Label `fig:ganttDiagram' multiply defined.
-
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\800-references.aux)
 )
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\701-futurewo
-rk.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\800-referenc
-es.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
@@ -1176,15 +1156,17 @@ Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.glsdefs)
 \c@lstlisting=\count174
 
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\100-cover.te
-x" <./images/isel_logo.jpg, id=1, 1207.51125pt x 462.72874pt>
-File: ./images/isel_logo.jpg Graphic file (type jpg)
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\100-cover.tex
+<./images/isel_logo.png, id=1, 173.448pt x 104.5506pt>
+File: ./images/isel_logo.png Graphic file (type png)
 
-<use ./images/isel_logo.jpg>
-Package pdftex.def Info: ./images/isel_logo.jpg used on input line 4.
-(pdftex.def)             Requested size: 142.26378pt x 54.51537pt.
+<use ./images/isel_logo.png>
+Package pdftex.def Info: ./images/isel_logo.png used on input line 4.
+(pdftex.def)             Requested size: 173.56198pt x 104.6253pt.
 LaTeX Font Info:    Font shape `T1/fve/m/n' will be
 (Font)              scaled to size 12.9599pt on input line 5.
 LaTeX Font Info:    Font shape `T1/fve/b/n' will be
@@ -1217,200 +1199,135 @@ LaTeX Font Info:    Font shape `T1/fve/b/n' will be
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/andré/Documents
-/Dissertação/Latex/Relatorio - Cópia/images/isel_logo.jpg>] [2
+/Dissertação/Latex/Relatorio_v3/images/isel_logo.png>])
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\002-abstract.tex
+[2
+
+
+
 
 ]
-File: ./images/isel_logo.jpg Graphic file (type jpg)
- <use ./images/isel_logo.jpg>
-Package pdftex.def Info: ./images/isel_logo.jpg used on input line 42.
-(pdftex.def)             Requested size: 142.26378pt x 54.51537pt.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 56.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 1.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 56.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 1.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 56.
-
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 1.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 56.
-
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 1.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 56.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 56.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 56.
-LaTeX Font Info:    Try loading font information for U+msa on input line 56.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 56.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 65.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <11> on input line 65.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.69997> on input line 65.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.5> on input line 65.
- [3])
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\002-abstract
-.tex" [4
-
-
-
-
-]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
+Underfull \hbox (badness 10000) in paragraph at lines 3--13
 
  []
 
-[5] [6
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--13
+
+ []
+
+[3] [4
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 12--19
+Underfull \hbox (badness 10000) in paragraph at lines 15--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--19
+Underfull \hbox (badness 10000) in paragraph at lines 15--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--19
+Underfull \hbox (badness 10000) in paragraph at lines 15--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--25
 
  []
 
 LaTeX Font Info:    Font shape `T1/fve/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 20.
-) [7] [8
+(Font)              scaled to size 10.79993pt on input line 26.
+) [5] [6
 
 
 
 ]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\000-main.toc
-")
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.toc)
 \tf@toc=\write6
- [9] [10
+
+[7] [8
 
 
 ]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\000-main.lof
-")
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.lof)
 \tf@lof=\write7
 
 No file 000-main.acr.
-[11] [12
+[9] [10
 
 
 ]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\200-introduc
-tion.tex"
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\201-content.tex
 Chapter 1.
 Package newfloat Info: Setting Plan B file extension to `lof'... on input line 
 1.
 LaTeX Font Info:    Font shape `T1/fve/m/it' in size <10> not available
-(Font)              Font shape `T1/fve/m/sl' tried instead on input line 9.
+(Font)              Font shape `T1/fve/m/sl' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/fve/m/sl' will be
-(Font)              scaled to size 8.99994pt on input line 9.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--16
-
- []
-
-LaTeX Font Info:    Try loading font information for TS1+fve on input line 17.
-("C:\Program Files\MiKTeX 2.9\tex\latex\bera\ts1fve.fd"
-File: ts1fve.fd 2004/09/07 scalable font definitions for TS1/fve.
-)
-LaTeX Font Info:    Font shape `TS1/fve/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 17.
-
+(Font)              scaled to size 8.99994pt on input line 6.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-
-LaTeX Warning: Citation `Muller' on page 1 undefined on input line 30.
-
-
-LaTeX Warning: Citation `Muller2009' on page 1 undefined on input line 30.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--34
+Underfull \hbox (badness 10000) in paragraph at lines 15--22
 
  []
 
@@ -1418,269 +1335,135 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--34
 
 
 
-]) [2]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\300-cbcttpro
-blem.tex"
-Chapter 2.
-
-LaTeX Warning: Citation `DiGasperoL.2007' on page 3 undefined on input line 6.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-[3
-
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
-
- []
-
-) [4]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\400-stateoft
-heart.tex"
-Chapter 3.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 4--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--78
-
- []
-
-[5
-
-
-
-
-] [6]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\500-proposed
--solution.tex"
-Chapter 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--10
-
- []
-
+] [2] [3]
 LaTeX Font Info:    Font shape `T1/fve/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 16.
+(Font)              scaled to size 8.09995pt on input line 80.
 
-<./images/figures/Fig1_OverviewProposedApproach.png, id=62, 676.929pt x 117.077
+<./images/figures/Fig1_OverviewProposedApproach.png, id=49, 676.929pt x 117.077
 4pt>
 File: ./images/figures/Fig1_OverviewProposedApproach.png Graphic file (type png
 )
  <use ./images/figures/Fig1_OverviewProposedApproach.png>
 Package pdftex.def Info: ./images/figures/Fig1_OverviewProposedApproach.png use
-d on input line 18.
-(pdftex.def)             Requested size: 355.65944pt x 61.51299pt.
+d on input line 82.
+(pdftex.def)             Requested size: 298.75394pt x 51.67142pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--23
+Underfull \hbox (badness 10000) in paragraph at lines 78--86
 
  []
 
-<./images/figures/Fig2_OverviewSteps_GA.png, id=64, 334.3692pt x 425.9112pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/figures/Fig2_OverviewSteps_GA.png, id=50, 628.749pt x 142.131pt>
 File: ./images/figures/Fig2_OverviewSteps_GA.png Graphic file (type png)
 
 <use ./images/figures/Fig2_OverviewSteps_GA.png>
 Package pdftex.def Info: ./images/figures/Fig2_OverviewSteps_GA.png used on inp
-ut line 31.
-(pdftex.def)             Requested size: 200.59201pt x 255.50969pt.
+ut line 93.
+(pdftex.def)             Requested size: 341.43306pt x 77.1855pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
+Underfull \hbox (badness 10000) in paragraph at lines 88--98
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--37
-
- []
-
-[7
-
-
-
-
- <C:/Users/andré/Documents/Dissertação/Latex/Relatorio - Cópia/images/figur
-es/Fig1_OverviewProposedApproach.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
-
- []
-
-[8 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio - Cópia/images/fig
-ures/Fig2_OverviewSteps_GA.png>]
-<./images/figures/Fig3_ChromosomeRepresentation_GA.png, id=74, 632.1216pt x 156
+<./images/figures/Fig3_ChromosomeRepresentation_GA.png, id=54, 632.1216pt x 156
 .1032pt>
 File: ./images/figures/Fig3_ChromosomeRepresentation_GA.png Graphic file (type 
 png)
  <use ./images/figures/Fig3_ChromosomeRepresentation_GA.png>
 Package pdftex.def Info: ./images/figures/Fig3_ChromosomeRepresentation_GA.png 
-used on input line 47.
-(pdftex.def)             Requested size: 426.79134pt x 105.40082pt.
+used on input line 107.
+(pdftex.def)             Requested size: 341.43306pt x 84.32066pt.
 
-Overfull \hbox (8.53766pt too wide) in paragraph at lines 47--48
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--53
+Underfull \hbox (badness 10000) in paragraph at lines 104--113
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-
- []
-
-[9 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio - Cópia/images/fig
-ures/Fig3_ChromosomeRepresentation_GA.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+[5 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio_v3/images/figures/F
+ig1_OverviewProposedApproach.png> <C:/Users/andré/Documents/Dissertação/Late
+x/Relatorio_v3/images/figures/Fig2_OverviewSteps_GA.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 
-<./images/figures/Fig4_SystemArchitecture.png, id=79, 525.6438pt x 258.2448pt>
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+[6 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio_v3/images/figures/F
+ig3_ChromosomeRepresentation_GA.png>]
+<./images/figures/Fig4_SystemArchitecture.png, id=64, 530.9436pt x 121.8954pt>
 File: ./images/figures/Fig4_SystemArchitecture.png Graphic file (type png)
 
 <use ./images/figures/Fig4_SystemArchitecture.png>
 Package pdftex.def Info: ./images/figures/Fig4_SystemArchitecture.png used on i
-nput line 85.
-(pdftex.def)             Requested size: 426.79134pt x 209.68546pt.
-
-Overfull \hbox (8.53766pt too wide) in paragraph at lines 85--86
- [][] 
- []
-
-) [10] [11 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio - Cópia/im
-ages/figures/Fig4_SystemArchitecture.png>]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\601-project-
-planning.tex"
-Chapter 5.
-
-LaTeX Warning: Reference `fig:completedTasks' on page 12 undefined on input lin
-e 6.
+nput line 145.
+(pdftex.def)             Requested size: 341.43306pt x 78.38663pt.
 
 
-<./images/figures/Fig5_CompletedProjectTasks.png, id=87, 2262.95438pt x 1359.57
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7]
+<./images/figures/Fig5_CompletedProjectTasks.png, id=68, 2262.95438pt x 1359.57
 938pt>
 File: ./images/figures/Fig5_CompletedProjectTasks.png Graphic file (type png)
  <use ./images/figures/Fig5_CompletedProjectTasks.png>
 Package pdftex.def Info: ./images/figures/Fig5_CompletedProjectTasks.png used o
-n input line 9.
-(pdftex.def)             Requested size: 361.91908pt x 217.43341pt.
+n input line 160.
+(pdftex.def)             Requested size: 180.95953pt x 108.70633pt.
 
-
-LaTeX Warning: Reference `fig:gantDiagram' on page 12 undefined on input line 1
-3.
-
-<./images/figures/Fig6_GANTT_Diagram.png, id=88, 1068.99374pt x 246.1697pt>
+<./images/figures/Fig6_GANTT_Diagram.png, id=69, 807.015pt x 331.99031pt>
 File: ./images/figures/Fig6_GANTT_Diagram.png Graphic file (type png)
 
 <use ./images/figures/Fig6_GANTT_Diagram.png>
 Package pdftex.def Info: ./images/figures/Fig6_GANTT_Diagram.png used on input 
-line 17.
-(pdftex.def)             Requested size: 569.05511pt x 131.04776pt.
+line 168.
+(pdftex.def)             Requested size: 569.05511pt x 234.09879pt.
 
-Overfull \hbox (58.86745pt too wide) in paragraph at lines 16--18
+Overfull \hbox (95.85612pt too wide) in paragraph at lines 167--169
  []|  [] 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 5--80
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--173
 
  []
 
-[12
-
-
-
-
- <C:/Users/andré/Documents/Dissertação/Latex/Relatorio - Cópia/images/figur
-es/Fig5_CompletedProjectTasks.png>] [13 <C:/Users/andré/Documents/Dissertaçã
-o/Latex/Relatorio - Cópia/images/figures/Fig6_GANTT_Diagram.png>]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\701-futurewo
-rk.tex"
-Chapter 6.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 4--81
+[8 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio_v3/images/figures/F
+ig4_SystemArchitecture.png> <C:/Users/andré/Documents/Dissertação/Latex/Rela
+torio_v3/images/figures/Fig5_CompletedProjectTasks.png>])
+Underfull \hbox (badness 10000) in paragraph at lines 175--75
 
  []
 
-[14
-
-
-
-
-]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\800-referenc
-es.tex"
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\000-main.bbl
-"
+[9 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio_v3/images/figures/F
+ig6_GANTT_Diagram.png>]
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\800-references.tex
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.bbl
 LaTeX Font Info:    Font shape `T1/fve/m/it' in size <9> not available
 (Font)              Font shape `T1/fve/m/sl' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/fve/m/sl' will be
 (Font)              scaled to size 8.09995pt on input line 7.
- [15
+
+[10
 
 
 
@@ -1693,48 +1476,31 @@ Underfull \hbox (badness 1231) in paragraph at lines 155--162
 . Dorigo, L.M. Gam-bardella,
  []
 
-)) [16]
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\000-main.aux
-"
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\100-cover.au
-x")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\002-abstract
-.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\200-introduc
-tion.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\300-cbcttpro
-blem.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\400-stateoft
-heart.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\500-proposed
--solution.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\601-project-
-planning.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\701-futurewo
-rk.aux")
-("C:\Users\andré\Documents\Dissertação\Latex\Relatorio - Cópia\800-referenc
-es.aux"))
-
-LaTeX Warning: There were undefined references.
-
+)) [11]
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.aux
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\100-cover.aux)
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\002-abstract.aux)
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\201-content.aux)
+(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\800-references.aux)
+)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13010 strings out of 493921
- 190952 string characters out of 3147279
- 311339 words of memory out of 3000000
- 15879 multiletter control sequences out of 15000+200000
- 86003 words of font info for 89 fonts, out of 3000000 for 9000
+ 12930 strings out of 493921
+ 187556 string characters out of 3147279
+ 309743 words of memory out of 3000000
+ 15845 multiletter control sequences out of 15000+200000
+ 61606 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  46i,7n,77p,1717b,601s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/bera/fveb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/bera/fver8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/bera/fver8a.pfb>
-Output written on 000-main.pdf (28 pages, 360346 bytes).
+Output written on 000-main.pdf (21 pages, 363159 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

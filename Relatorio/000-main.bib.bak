@@ -4,7 +4,7 @@
 
 @Conference{Abdullah2005,
   Title                    = {An investigation of variable neighborhood search for university course timetabling},
-  Author                   = {Abdullah, S. and Burke, E.K. and McCollum, B.},
+  Author                   = {S. Abdullah and E.K. Burke and B. McCollum},
   Booktitle                = {The 2nd Multidisciplinary International Conference on Scheduling: Theory and Applications (MISTA)},
   Year                     = {2005},
   Pages                    = {413–427},
@@ -16,7 +16,7 @@
 
 @Conference{Abdullah2008,
   Title                    = {Generating university course timetable using genetic algorithm and local search},
-  Author                   = {Abdullah, S. and Turabieh, H.},
+  Author                   = {S. Abdullah and H. Turabieh},
   Booktitle                = {Proceeding of the 3rd International Conference on Hybrid Information Technology},
   Year                     = {2008},
   Pages                    = {254–260},
@@ -28,7 +28,7 @@
 
 @Standard{Atsuta2007,
   Title                    = {ITC-2007 Track2 - An Approach using General CSP Solver},
-  Author                   = {Atsuta, M. and Nonobe, K. and Ibaraki, T.},
+  Author                   = {M. Atsuta and K. Nonobe and T. Ibaraki},
   Url                      = {http://www.cs.qub.ac.uk/itc2007/winner/bestcoursesolutions/Atsuta_et_al.pdf},
   Year                     = {2007},
 
@@ -38,7 +38,7 @@
 
 @Article{Bajeh2001,
   Title                    = {Optimization: A Comparative Study of Genetic and Tabu Search Algorithms},
-  Author                   = {Bajeh, A.O. and Abolarinwa, K.O.},
+  Author                   = {A.O. Bajeh and K.O. Abolarinwa},
   Journal                  = {International Journal of Computer Applications},
   Year                     = {2001},
 
@@ -53,7 +53,7 @@
 
 @Article{Burke2003,
   Title                    = {A tabu-search hyper-heuristic for timetabling and rostering},
-  Author                   = {Burke, E.K. and Kendall, G. and Soubeiga, E.},
+  Author                   = {E.K. Burke and G. Kendall and E. Soubeiga},
   Journal                  = {Journal of Heuristics},
   Year                     = {2003},
   Number                   = {6},
@@ -66,7 +66,7 @@
 
 @Article{Burke2009,
   Title                    = {Decomposition, reformulation, and diving in university course timetabling},
-  Author                   = {Burke, E.K. and Marecek, J. and Parkes, A. and Rudová, H.},
+  Author                   = {E.K. Burke and J. Marecek and A. Parkes and H. Rudová},
   Journal                  = {Comput. Oper. Res},
   Year                     = {2009},
   Number                   = {3},
@@ -79,7 +79,7 @@
 
 @Article{Burke2007,
   Title                    = {A graph-based hyper-heuristic for timetabling problems},
-  Author                   = {Burke, E.K. and Meisels, A. and Petrovic, S. and Qu, R.},
+  Author                   = {E.K. Burke and A. Meisels and S. Petrovic and R. Qu},
   Journal                  = {European Journal of Operational Research},
   Year                     = {2007},
   Number                   = {1},
@@ -92,7 +92,7 @@
 
 @Article{Burke2002,
   Title                    = {Recent research directions in automated timetabling},
-  Author                   = {Burke, E.K. and Petrovic, S.},
+  Author                   = {E.K. Burke and S. Petrovic},
   Journal                  = {European Journal of Operational Research},
   Year                     = {2002},
   Number                   = {2},
@@ -105,7 +105,7 @@
 
 @Article{Carter1986,
   Title                    = {A survey of practical applications of examination timetabling algorithms},
-  Author                   = {Carter, M.W.},
+  Author                   = {M.W. Carter},
   Journal                  = {Operations Research},
   Year                     = {1986},
   Number                   = {2},
@@ -118,7 +118,7 @@
 
 @Article{Carter1996,
   Title                    = {Recent developments in practical examination timetabling},
-  Author                   = {Carter, M.W. and Laporte, G},
+  Author                   = {M.W. Carter and G. Laporte},
   Journal                  = {Selected papers from the First International Conference on Practice and Theory of Automated Timetabling},
   Year                     = {1996},
   Pages                    = {3-21},
@@ -127,9 +127,21 @@
   Timestamp                = {2015.03.26}
 }
 
+@Conference{DeCesco2008,
+  Title                    = {Benchmarking curriculum-based course timetabling: Formulations, data formats, instances, validation, and results},
+  Author                   = {F. De Cesco and L. Di Gaspero and A. Schaerf},
+  Booktitle                = {Proceedings of the Seventh PATAT Conference},
+  Year                     = {2008},
+
+  Journal                  = {Proceedings of the Seventh PATAT Conference},
+  Owner                    = {andré},
+  Timestamp                = {2015.03.26},
+  Url                      = {http://tabu.diegm.uniud.it/ctt/DDS2008.pdf}
+}
+
 @Article{Chiarandini2006,
   Title                    = {An effective hybrid algorithm for university course timetabling},
-  Author                   = {Chiarandini, M. and Birattari, M. and Socha, K. and Rossi-Doria, O.},
+  Author                   = {M. Chiarandini and M. Birattari and K. Socha and O. Rossi-Doria},
   Journal                  = {Journal of Scheduling},
   Year                     = {2006},
 
@@ -144,7 +156,7 @@
 
 @Conference{Clark2008,
   Title                    = {QuikFix. A repair-based timetable solver},
-  Author                   = {Clark, M. and Henz, M. and Love, B.},
+  Author                   = {M. Clark and M. Henz and B. Love},
   Booktitle                = {Proceedings of the Seventh PATAT Conference},
   Year                     = {2008},
 
@@ -156,37 +168,13 @@
 
 @Article{Cooper1996,
   Title                    = {The complexity of timetable construction problems},
-  Author                   = {Cooper, T.B. and Kingston, J.H.},
+  Author                   = {T.B. Cooper and J.H. Kingston},
   Journal                  = {The Practice and Theory of Automated Timetabling: Selected Papers from the First International. Lecture Notes in Computer Science, Springer-Verlag Berlin,},
   Year                     = {1996},
   Pages                    = {283-295},
   Volume                   = {1153},
 
   Owner                    = {agoncalves},
-  Timestamp                = {2015.03.26}
-}
-
-@Conference{DeCesco2008,
-  Title                    = {Benchmarking curriculum-based course timetabling: Formulations, data formats, instances, validation, and results},
-  Author                   = {De Cesco, F. and Di Gaspero, L. and Schaerf, A.},
-  Booktitle                = {Proceedings of the Seventh PATAT Conference},
-  Year                     = {2008},
-
-  Journal                  = {Proceedings of the Seventh PATAT Conference},
-  Owner                    = {andré},
-  Timestamp                = {2015.03.26},
-  Url                      = {http://tabu.diegm.uniud.it/ctt/DDS2008.pdf}
-}
-
-@Standard{DiGaspero2007,
-  Title                    = {The Second International Timetabling Competition (ICT-2007) Curriculum-based Course Timetabling (Track 3), 2007.},
-  Author                   = {Di Gaspero, L. and Scaherf, A. and McCollum, B.},
-  HowPublished             = {Online},
-  Url                      = {http://pst.istc.cnr.it/ssc-at-icaps-07/papers/digaspero-et-al-SSC07.pdf},
-  Year                     = {2007},
-
-  Comment                  = {Retrieved on 26-03-2015},
-  Owner                    = {andré},
   Timestamp                = {2015.03.26}
 }
 
@@ -203,9 +191,15 @@
   Timestamp                = {2015.03.26}
 }
 
+@Other{Gaspero07thesecond,
+  Title                    = {The Second International Timetabling Competition (ITC-2007) CBCT (Track 3},
+  Author                   = {Luca Di Gaspero and Andrea Schaerf and Barry Mccollum},
+  Year                     = {2007}
+}
+
 @Conference{Geiger2008,
   Title                    = {An application of the threshold accepting metaheuristic for curriculum based course timetabling},
-  Author                   = {Geiger, M.J.},
+  Author                   = {M.J. Geiger},
   Booktitle                = {Proceedings of the Seventh PATAT Conference},
   Year                     = {2008},
 
@@ -215,7 +209,7 @@
 
 @Conference{Lach2008,
   Title                    = {Curriculum based course timetabling: Optimal solutions to the Udine benchmark instances},
-  Author                   = {Lach, G. and Lübbecke, M.E.},
+  Author                   = {G. Lach and M.E. Lübbecke},
   Booktitle                = {Proceedings of the Seventh PATAT Conference},
   Year                     = {2008},
 
@@ -226,7 +220,7 @@
 
 @Conference{Landa-Silva2008,
   Title                    = {Great deluge with non-linear decay rate for solving course timetabling problem},
-  Author                   = {Landa-Silva, D. and Obit, J.H.},
+  Author                   = {D. Landa-Silva and J.H. Obit},
   Booktitle                = {The Fourth International IEEE Conference on Intelligent Systems},
   Year                     = {2008},
   Note                     = {Varna, Bulgaria},
@@ -239,7 +233,7 @@
 
 @Article{Lue2010,
   Title                    = {Adaptive Tabu Search for course timetabling},
-  Author                   = {Lü, Z. and Hao, J.-K.},
+  Author                   = {Z. Lü and J.K. Hao},
   Journal                  = {European Journal of Operational Research.},
   Year                     = {2010},
   Number                   = {1},
@@ -254,7 +248,7 @@
   Title                    = {ITC 2007 Site},
   Institution              = {Queen's University Belfast},
   Organization             = {School of Electronics, Electrical Engineering \& Computer Science},
-  Author                   = {McCollum, B.},
+  Author                   = {B. McCollum},
   HowPublished             = {Online},
   Language                 = {English},
   Url                      = {http://www.cs.qub.ac.uk/itc2007/},
@@ -269,7 +263,7 @@
   Title                    = {ITC 2007 – Competition Rules},
   Institution              = {Queen's University Belfast},
   Organization             = {School of Electronics, Electrical Engineering \& Computer Science},
-  Author                   = {McCollum, B.},
+  Author                   = {B. McCollum},
   HowPublished             = {Online},
   Language                 = {English},
   Url                      = {http://www.cs.qub.ac.uk/itc2007/index_files/competitionrules.htm},
@@ -282,7 +276,7 @@
 
 @Article{McCollum2010,
   Title                    = {Setting the research agenda in automated timetabling: The second international timetabling competition},
-  Author                   = {McCollum, B. and Schaerf, A. and Paechter, B. and McMullan, P. and Lewis, R. and Parkes, A. and Di Gaspero, L. and Qu, R. and Burke, E.K.},
+  Author                   = {B. McCollum and A. Schaerf and B. Paechter and P. McMullan and R. Lewis and A. Parkes and L. Di Gaspero and R. Qu and E.K. Burke},
   Journal                  = {INFORMS Journal of Computing},
   Year                     = {2010},
   Number                   = {1},
@@ -295,7 +289,7 @@
 
 @Article{McMullan2007,
   Title                    = {An extended implementation of the great deluge algorithm for course timetabling},
-  Author                   = {McMullan, P.},
+  Author                   = {P. McMullan},
   Journal                  = {Computational Science—ICCS, Part I. LNCS},
   Year                     = {2007},
   Note                     = {Springer, Berlin},
@@ -308,7 +302,7 @@
 
 @Article{Mueller2009,
   Title                    = {ITC2007 solver description: a hybrid approach},
-  Author                   = {Müller, T.},
+  Author                   = {T. Müller},
   Journal                  = {Annals of Operational Research},
   Year                     = {2009},
   Number                   = {1},
@@ -321,7 +315,7 @@
 
 @Conference{Mueller2007,
   Title                    = {ITC2007: Solver description},
-  Author                   = {Müller, T.},
+  Author                   = {T. Müller},
   Booktitle                = {Proceedings of the 7th International Conference on the Practice and Theory of Automated Timetabling},
   Year                     = {2007},
 
@@ -334,7 +328,7 @@
 
 @Article{Petrovic2004,
   Title                    = {University timetabling},
-  Author                   = {Petrovic, S. and Burke, E.K.},
+  Author                   = {S. Petrovic and E.K. Burke},
   Journal                  = {Handbook of Scheduling: Algorithms, Models, and Performance Analysis, CRC Press, Boca Raton, Chap. 45},
   Year                     = {2004},
 
@@ -344,7 +338,7 @@
 
 @Article{Rossi-Doria2003,
   Title                    = {A comparison of the performance of different meta-heuristics on the timetabling problem},
-  Author                   = {Rossi-Doria, O. and Sampels, M. and Birattari,M. and Chiarandini,M. and Dorigo, M. and Gambardella, L.M. and Knowles, J. and Manfrin, M. and Mastrolilli, M. and Paechter, B. and Paquete, L. and Stützle, T.},
+  Author                   = {O. Rossi-Doria and M. Sampels and M. Birattari and M. Chiarandini and M. Dorigo and L.M. Gambardella and J. Knowles and M. Manfrin and M. Mastrolilli and B. Paechter and L. Paquete and T. Stützle},
   Journal                  = {Practice and Theory of Automated Timetabling IV, Lecture Notes in Computer Science},
   Year                     = {2003},
   Pages                    = {329-351},
@@ -354,24 +348,24 @@
   Timestamp                = {2015.03.26}
 }
 
-@Standard{Schaerf,
-  Title                    = {ITC 2007  Curriculum-Based Course Timetable problem model},
+@Standard{Schaeerf2007,
+  Title                    = {ITC 2007 Curriculum Based Course Timetable problem model},
   Institution              = {University of Udine},
   Organization             = {DIEGM},
-  Author                   = {Schaerf, A.},
+  Author                   = {A. Schaerf},
   HowPublished             = {Online},
   Language                 = {English},
   Url                      = {http://www.cs.qub.ac.uk/itc2007/curriculmcourse/course_curriculm_index_files/problemmodel.htm},
   Year                     = {2007},
 
-  Comment                  = {Retrieved on 2015-02-18},
+  Comment                  = {Retrieved on 26-03-2015},
   Owner                    = {andré},
   Timestamp                = {2015.03.26}
 }
 
 @Article{Schaerf1999,
   Title                    = {A survey of automated timetabling},
-  Author                   = {Schaerf, A.},
+  Author                   = {A. Schaerf},
   Journal                  = {Artificial Intelligence Review},
   Year                     = {1999},
   Number                   = {2},
@@ -384,7 +378,7 @@
 
 @Article{Socha2002,
   Title                    = {A max-min ant system for the university course timetabling problem},
-  Author                   = {Socha, K. and Knowles, J. and Sampels, M.},
+  Author                   = {K. Socha and J. Knowles and M. Sampels},
   Journal                  = {The Proceedings of the 3rd International Workshop on Ant Algorithms (ANTS 2002). LNCS},
   Year                     = {2002},
   Note                     = {Springer, Berlin},

@@ -54,7 +54,6 @@
 \frontmatter 				%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \pagenumbering{roman}  
 \include{100-cover}
-
 \include{002-abstract}
 
 %%% The followinf 3 commands will force page number to 
@@ -67,19 +66,13 @@
 \tableofcontents
 \listoffigures	
 \addcontentsline{toc}{chapter}{List of Figures} 
+
 \printglossary[type=\acronymtype, nonumberlist, title=List of Acronyms, style=listwithwidth]
 \addcontentsline{toc}{chapter}{List of Acronyms}
 
 \mainmatter 					%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \pagenumbering{arabic}
-
-\include{200-introduction}
-\include{300-cbcttproblem}
-\include{400-stateoftheart}
-\include{500-proposed-solution}
-\include{601-project-planning}
-\include{701-futurework}
-
+\include{201-content}
 \backmatter					%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \include{800-references}
 
