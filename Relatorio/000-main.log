@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.26)  29 MAR 2015 15:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.26)  30 MAR 2015 13:54
 entering extended mode
 **000-main.tex
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.tex
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\svmono.cls
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\svmono.cls
 Document Class: svmono 2006/10/31 v4.17 
 Springer Verlag global LaTeX document class for monographs
 Class Springer-SVMono Info: extra/valid Springer sub-package 
@@ -903,7 +903,7 @@ LaTeX Font Info:    Try loading font information for T1+ptm on input line 43.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\001-acronyms.tex
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\001-acronyms.tex
 \acronymlabelwidth=\skip67
 )
 \glo@main@file=\write4
@@ -912,12 +912,9 @@ Package glossaries Info: Writing glossary file 000-main.glo on input line 47.
 Package glossaries Info: Writing glossary file 000-main.acn on input line 47.
 
 \@input{000-latex-config.aux}
-
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-latex-config.te
-x)
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-latex-config.tex)
 \@input{000-format-json.aux}
-
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-format-json.tex
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-format-json.tex
 ("C:\Program Files\MiKTeX 2.9\tex\latex\bera\bera.sty"
 Package: bera 2004/01/31 (WaS)
 
@@ -1030,19 +1027,17 @@ Package: berasans 2004/01/30 (WaS)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\bera\beramono.sty"
 Package: beramono 2004/01/31 (WaS)
 )))
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.aux
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\100-cover.aux)
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\002-abstract.aux)
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\201-content.aux
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-main.aux
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\100-cover.aux)
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\002-abstract.aux)
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\201-content.aux
 
 LaTeX Warning: Label `subsubsubsec:ga-selection' multiply defined.
 
 
 LaTeX Warning: Label `subsubsec:genetic-algorithm' multiply defined.
 
-)
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\800-references.aux)
-)
+) (C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\800-references.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
@@ -1057,7 +1052,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 53.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 53.
@@ -1157,10 +1153,10 @@ Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.glsdefs)
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-main.glsdefs)
 \c@lstlisting=\count174
 
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\100-cover.tex
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\100-cover.tex
 <./images/isel_logo.png, id=1, 173.448pt x 104.5506pt>
 File: ./images/isel_logo.png Graphic file (type png)
 
@@ -1198,17 +1194,17 @@ LaTeX Font Info:    Font shape `T1/fve/b/n' will be
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/andré/Documents
-/Dissertação/Latex/Relatorio_v3/images/isel_logo.png>])
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\002-abstract.tex
-[2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Utils/Relatorio/MEIC20
+15-CBCTT/Relatorio/images/isel_logo.png>])
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\002-abstract.tex [2
 
 
 
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 1.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 1.
@@ -1270,53 +1266,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--13
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 15--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--25
+Underfull \hbox (badness 10000) in paragraph at lines 15--24
 
  []
 
 LaTeX Font Info:    Font shape `T1/fve/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 26.
+(Font)              scaled to size 10.79993pt on input line 25.
 ) [5] [6
 
 
 
-]
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.toc)
+] (C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-main.toc)
 \tf@toc=\write6
+ [7]
+[8
 
-[7] [8
 
-
-]
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.lof)
+] (C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-main.lof)
 \tf@lof=\write7
 
 No file 000-main.acr.
 [9] [10
 
 
-]
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\201-content.tex
+] (C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\201-content.tex
 Chapter 1.
 Package newfloat Info: Setting Plan B file extension to `lof'... on input line 
 1.
@@ -1386,9 +1379,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--113
 
  []
 
-[5 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio_v3/images/figures/F
-ig1_OverviewProposedApproach.png> <C:/Users/andré/Documents/Dissertação/Late
-x/Relatorio_v3/images/figures/Fig2_OverviewSteps_GA.png>]
+[5 <C:/Utils/Relatorio/MEIC2015-CBCTT/Relatorio/images/figures/Fig1_OverviewPro
+posedApproach.png> <C:/Utils/Relatorio/MEIC2015-CBCTT/Relatorio/images/figures/
+Fig2_OverviewSteps_GA.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
@@ -1408,8 +1401,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
-[6 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio_v3/images/figures/F
-ig3_ChromosomeRepresentation_GA.png>]
+[6 <C:/Utils/Relatorio/MEIC2015-CBCTT/Relatorio/images/figures/Fig3_ChromosomeR
+epresentation_GA.png>]
 <./images/figures/Fig4_SystemArchitecture.png, id=64, 530.9436pt x 121.8954pt>
 File: ./images/figures/Fig4_SystemArchitecture.png Graphic file (type png)
 
@@ -1447,23 +1440,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--173
 
  []
 
-[8 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio_v3/images/figures/F
-ig4_SystemArchitecture.png> <C:/Users/andré/Documents/Dissertação/Latex/Rela
-torio_v3/images/figures/Fig5_CompletedProjectTasks.png>])
+[8 <C:/Utils/Relatorio/MEIC2015-CBCTT/Relatorio/images/figures/Fig4_SystemArchi
+tecture.png> <C:/Utils/Relatorio/MEIC2015-CBCTT/Relatorio/images/figures/Fig5_C
+ompletedProjectTasks.png>])
 Underfull \hbox (badness 10000) in paragraph at lines 175--75
 
  []
 
-[9 <C:/Users/andré/Documents/Dissertação/Latex/Relatorio_v3/images/figures/F
-ig6_GANTT_Diagram.png>]
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\800-references.tex
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.bbl
+[9 <C:/Utils/Relatorio/MEIC2015-CBCTT/Relatorio/images/figures/Fig6_GANTT_Diagr
+am.png>] (C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\800-references.tex
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-main.bbl
 LaTeX Font Info:    Font shape `T1/fve/m/it' in size <9> not available
 (Font)              Font shape `T1/fve/m/sl' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/fve/m/sl' will be
 (Font)              scaled to size 8.09995pt on input line 7.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 20.
 
-[10
+("C:\Program Files\MiKTeX 2.9\tex\latex\bera\t1fvm.fd"
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 20.
+ [10
 
 
 
@@ -1471,36 +1473,41 @@ LaTeX Font Info:    Font shape `T1/fve/m/sl' will be
 
 
 ]
-Underfull \hbox (badness 1231) in paragraph at lines 155--162
+Overfull \hbox (39.79153pt too wide) in paragraph at lines 120--123
+[]\T1/fve/m/n/9 B. Mc-Col-lum.  Itc 2007 com-pe-ti-tion rules.  http://www.cs.q
+ub.ac.uk/itc2007/indexfiles/competitionrules.htm/,
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 157--164
 []\T1/fve/m/n/9 O. Rossi-Doria, M. Sam-pels, M. Bi-rat-tari, M. Chiaran-dini, M
 . Dorigo, L.M. Gam-bardella,
  []
 
-)) [11]
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\000-main.aux
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\100-cover.aux)
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\002-abstract.aux)
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\201-content.aux)
-(C:\Users\andré\Documents\Dissertação\Latex\Relatorio_v3\800-references.aux)
-)
+)) [11] (C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\000-main.aux
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\100-cover.aux)
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\002-abstract.aux)
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\201-content.aux)
+(C:\Utils\Relatorio\MEIC2015-CBCTT\Relatorio\800-references.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12930 strings out of 493921
- 187556 string characters out of 3147279
- 309743 words of memory out of 3000000
- 15845 multiletter control sequences out of 15000+200000
- 61606 words of font info for 58 fonts, out of 3000000 for 9000
+ 12973 strings out of 493921
+ 187406 string characters out of 3147279
+ 309739 words of memory out of 3000000
+ 15877 multiletter control sequences out of 15000+200000
+ 70250 words of font info for 70 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  46i,7n,77p,1717b,601s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/bera/fveb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/bera/fver8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/bera/fver8a.pfb>
-Output written on 000-main.pdf (21 pages, 363159 bytes).
+e1/bera/fver8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/bera/fver8a.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/bera/fvmr8a.pfb>
+Output written on 000-main.pdf (21 pages, 368205 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

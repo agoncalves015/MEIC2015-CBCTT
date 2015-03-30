@@ -27,8 +27,9 @@
 }
 
 @Standard{Atsuta2007,
-  Title                    = {ITC-2007 Track2 - An Approach using General CSP Solver},
+  Title                    = {ITC-2007 Track2 - An Approach using General CSP Solver - \url{http://www.cs.qub.ac.uk/itc2007/winner/bestcoursesolutions/Atsuta_et_al.pdf}},
   Author                   = {M. Atsuta and K. Nonobe and T. Ibaraki},
+  Language                 = {English},
   Url                      = {http://www.cs.qub.ac.uk/itc2007/winner/bestcoursesolutions/Atsuta_et_al.pdf},
   Year                     = {2007},
 
@@ -245,14 +246,13 @@
 }
 
 @Standard{McCollum,
-  Title                    = {ITC 2007 Site},
+  Title                    = {ITC 2007 Site - \url{ http://www.cs.qub.ac.uk/itc2007 }},
   Institution              = {Queen's University Belfast},
   Organization             = {School of Electronics, Electrical Engineering \& Computer Science},
   Author                   = {B. McCollum},
-  HowPublished             = {Online},
   Language                 = {English},
   Url                      = {http://www.cs.qub.ac.uk/itc2007/},
-  Year                     = {2010},
+  Year                     = {2007},
 
   Comment                  = {Retrieved on 26-03-2015},
   Owner                    = {andré},
@@ -260,11 +260,10 @@
 }
 
 @Standard{McCollum2007,
-  Title                    = {ITC 2007 – Competition Rules},
+  Title                    = {ITC 2007 – Competition Rules - http://www.cs.qub.ac.uk/itc2007/index\_files/competitionrules.htm},
   Institution              = {Queen's University Belfast},
   Organization             = {School of Electronics, Electrical Engineering \& Computer Science},
   Author                   = {B. McCollum},
-  HowPublished             = {Online},
   Language                 = {English},
   Url                      = {http://www.cs.qub.ac.uk/itc2007/index_files/competitionrules.htm},
   Year                     = {2007},
@@ -353,7 +352,7 @@
   Institution              = {University of Udine},
   Organization             = {DIEGM},
   Author                   = {A. Schaerf},
-  HowPublished             = {Online},
+  HowPublished             = {http://www.cs.qub.ac.uk/itc2007/curriculmcourse/course_curriculm_index_files/problemmodel.htm},
   Language                 = {English},
   Url                      = {http://www.cs.qub.ac.uk/itc2007/curriculmcourse/course_curriculm_index_files/problemmodel.htm},
   Year                     = {2007},

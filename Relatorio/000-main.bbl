@@ -16,7 +16,9 @@ S.~Abdullah and H.~Turabieh.
 
 \bibitem{Atsuta2007}
 M.~Atsuta, K.~Nonobe, and T.~Ibaraki.
-\newblock Itc-2007 track2 - an approach using general csp solver, 2007.
+\newblock Itc-2007 track2 - an approach using general csp solver -
+  \url{http://www.cs.qub.ac.uk/itc2007/winner/bestcoursesolutions/Atsuta_et_al.pdf},
+  2007.
 
 \bibitem{Bajeh2001}
 A.O. Bajeh and K.O. Abolarinwa.
@@ -55,10 +57,16 @@ M.W. Carter.
 \newblock {\em Operations Research}, 34(2):193--202, 1986.
 
 \bibitem{Carter1996}
-M.W. Carter and G~Laporte.
+M.W. Carter and G.~Laporte.
 \newblock Recent developments in practical examination timetabling.
 \newblock {\em Selected papers from the First International Conference on
   Practice and Theory of Automated Timetabling}, pages 3--21, 1996.
+
+\bibitem{DeCesco2008}
+F.~De Cesco, L.~Di Gaspero, and A.~Schaerf.
+\newblock Benchmarking curriculum-based course timetabling: Formulations, data
+  formats, instances, validation, and results.
+\newblock In {\em Proceedings of the Seventh PATAT Conference}, 2008.
 
 \bibitem{Chiarandini2006}
 M.~Chiarandini, M.~Birattari, K.~Socha, and O.~Rossi-Doria.
@@ -77,12 +85,6 @@ T.B. Cooper and J.H. Kingston.
   Papers from the First International. Lecture Notes in Computer Science,
   Springer-Verlag Berlin,}, 1153:283--295, 1996.
 
-\bibitem{DeCesco2008}
-F.~De~Cesco, L.~Di~Gaspero, and A.~Schaerf.
-\newblock Benchmarking curriculum-based course timetabling: Formulations, data
-  formats, instances, validation, and results.
-\newblock In {\em Proceedings of the Seventh PATAT Conference}, 2008.
-
 \bibitem{Even1976}
 S.~Even, A.~Itai, and A.~Shamir.
 \newblock On the complexity of timetabling and multicommodity flow problems.
@@ -95,7 +97,7 @@ M.J. Geiger.
 \newblock In {\em Proceedings of the Seventh PATAT Conference}, 2008.
 
 \bibitem{Lue2010}
-Z.~Lü and J.-K. Hao.
+Z.~Lü and J.K. Hao.
 \newblock Adaptive tabu search for course timetabling.
 \newblock {\em European Journal of Operational Research.}, 200(1):235–244,
   2010.
@@ -116,17 +118,17 @@ D.~Landa-Silva and J.H. Obit.
 
 \bibitem{McCollum2007}
 B.~McCollum.
-\newblock Itc 2007 – competition rules.
-\newblock Online, 2007.
+\newblock Itc 2007 competition rules.
+\newblock http://www.cs.qub.ac.uk/itc2007/indexfiles/competitionrules.htm/, 2007.
 
 \bibitem{McCollum}
 B.~McCollum.
 \newblock Itc 2007 site.
-\newblock Online, 2010.
+\newblock http://www.cs.qub.ac.uk/itc2007/, 2007.
 
 \bibitem{McCollum2010}
-B.~McCollum, A.~Schaerf, B.~Paechter, P.~McMullan, R.~Lewis, A.~Parkes,
-  L.~Di~Gaspero, R.~Qu, and E.K. Burke.
+B.~McCollum, A.~Schaerf, B.~Paechter, P.~McMullan, R.~Lewis, A.~Parkes, L.~Di
+  Gaspero, R.~Qu, and E.K. Burke.
 \newblock Setting the research agenda in automated timetabling: The second
   international timetabling competition.
 \newblock {\em INFORMS Journal of Computing}, 22(1):120--130, 2010.

@@ -1,84 +1,14 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: 000-main.aux
 A level-1 auxiliary file: 100-cover.aux
 A level-1 auxiliary file: 002-abstract.aux
-A level-1 auxiliary file: 200-introduction.aux
-A level-1 auxiliary file: 300-cbcttproblem.aux
-A level-1 auxiliary file: 400-stateoftheart.aux
-A level-1 auxiliary file: 500-proposed-solution.aux
-A level-1 auxiliary file: 500-developed-work.aux
-A level-1 auxiliary file: 550-experimental-results.aux
-A level-1 auxiliary file: 600-conclusions.aux
-A level-1 auxiliary file: 700-attachments.aux
+A level-1 auxiliary file: 201-content.aux
 A level-1 auxiliary file: 800-references.aux
 The style file: plain.bst
 Database file #1: 000-main.bib
 Warning--entry type for "Atsuta2007" isn't style-file defined
 --line 29 of file 000-main.bib
 Warning--entry type for "McCollum" isn't style-file defined
---line 253 of file 000-main.bib
+--line 248 of file 000-main.bib
 Warning--entry type for "McCollum2007" isn't style-file defined
---line 268 of file 000-main.bib
-Warning--I didn't find a database entry for "apns"
-Warning--I didn't find a database entry for "apnsDetailed"
-Warning--I didn't find a database entry for "Muller"
-Warning--I didn't find a database entry for "Muller2009"
-Warning--I didn't find a database entry for "DiGasperoL.2007"
-Warning--I didn't find a database entry for "threeTierArchitecture"
-Warning--I didn't find a database entry for "json"
-Warning--I didn't find a database entry for "git"
-Warning--I didn't find a database entry for "Bitbucket"
-Warning--I didn't find a database entry for "twitterBootstrap"
-Warning--I didn't find a database entry for "playFramework"
-Warning--I didn't find a database entry for "restletFramework"
-Warning--I didn't find a database entry for "jaxRsJerseyExamples"
-Warning--I didn't find a database entry for "jaxrsFramework"
-Warning--I didn't find a database entry for "php"
-Warning--I didn't find a database entry for "phpBadReputation"
-Warning--I didn't find a database entry for "hibernate"
-Warning--I didn't find a database entry for "activeJDBC"
-Warning--I didn't find a database entry for "jooq"
-Warning--I didn't find a database entry for "hibernateBenefits"
-Warning--I didn't find a database entry for "photoshop"
-Warning--I didn't find a database entry for "appCooker"
-Warning--I didn't find a database entry for "rfcLanguageCode"
-Warning--I didn't find a database entry for "apacheLog4j"
-Warning--I didn't find a database entry for "dao"
-Warning--I didn't find a database entry for "eclipse"
-Warning--I didn't find a database entry for "umlLanguage"
-Warning--I didn't find a database entry for "antTask"
-Warning--I didn't find a database entry for "playPerformance"
-Warning--I didn't find a database entry for "i18nOrigin"
-Warning--I didn't find a database entry for "jsonJackson"
-Warning--I didn't find a database entry for "facebook"
-Warning--I didn't find a database entry for "twitter"
-Warning--I didn't find a database entry for "restfb"
-Warning--I didn't find a database entry for "facebookGraphAPI"
-Warning--I didn't find a database entry for "twitterRestAPI"
-Warning--I didn't find a database entry for "twitter4j"
-Warning--I didn't find a database entry for "oauth2"
-Warning--I didn't find a database entry for "googleGeocodingAPI"
-Warning--I didn't find a database entry for "googleGeocodingLanguages"
-Warning--I didn't find a database entry for "rfc3066"
-Warning--I didn't find a database entry for "sphericalCosine"
-Warning--I didn't find a database entry for "wwo"
-Warning--I didn't find a database entry for "wwoCodes"
-Warning--I didn't find a database entry for "apacheMahout"
-Warning--I didn't find a database entry for "appleAppStore"
-Warning--I didn't find a database entry for "appleiOSGuideLines"
-Warning--I didn't find a database entry for "appleiCloud"
-Warning--I didn't find a database entry for "gcd"
-Warning--I didn't find a database entry for "javaApns"
-Warning--I didn't find a database entry for "appleRemoteNotifProvisioning"
-Warning--I didn't find a database entry for "appleIosDeveCenter"
-Warning--I didn't find a database entry for "aspNetRazor"
-Warning--I didn't find a database entry for "httpCookie"
-Warning--I didn't find a database entry for "jquery"
-Warning--I didn't find a database entry for "codeCoveragEclEmma"
-Warning--I didn't find a database entry for "movieLens"
-Warning--I didn't find a database entry for "gourpLens"
-Warning--I didn't find a database entry for "ibCollabrativeVSGK"
-Warning--I didn't find a database entry for "Duda_Book"
-Warning--I didn't find a database entry for "mahoutInAction"
-Warning--I didn't find a database entry for "amazonEC2"
-Warning--I didn't find a database entry for "gatling"
-(There were 66 warnings)
+--line 263 of file 000-main.bib
+(There were 3 warnings)

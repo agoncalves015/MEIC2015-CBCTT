@@ -2,7 +2,7 @@
 \contentsline {chapter}{Abstract}{v}
 \contentsline {chapter}{List of Figures}{ix}
 \contentsline {chapter}{List of Acronyms}{ix}
-\contentsline {chapter}{\numberline {1}Prelimnary Project Report}{1}
+\contentsline {chapter}{\numberline {1}Preliminary Project Report}{1}
 \contentsline {section}{\numberline {1.1}Introduction}{1}
 \contentsline {subsubsection}{Document Organization}{2}
 \contentsline {section}{\numberline {1.2}Curriculum-Based Course Timetabling problem}{2}
